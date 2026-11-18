@@ -1,0 +1,33 @@
+{
+  "title": "关羽守荆州",
+  "subtitle": "吕蒙率江东军来犯。守住荆州。",
+  "legend": "Rows run north to south. .=plain F=forest H=hill R=river +=ford C=city. cityX/cityY is the Jingzhou objective.",
+  "maxTurns": 10,
+  "width": 10,
+  "height": 8,
+  "cityX": 4,
+  "cityY": 1,
+  "rows": [
+    "..........",
+    "..........",
+    ".FF.FF.FF.",
+    "....HH....",
+    "RRR+RR+RRR",
+    "..........",
+    "..........",
+    ".........."
+  ],
+  "player": [
+    {"id": "guanyu", "name": "关羽", "troop": "cavalry", "troops": 132, "might": 32, "move": 5, "range": 1, "x": 4, "y": 2, "commander": true, "guanYu": true},
+    {"id": "guanping", "name": "关平", "troop": "infantry", "troops": 112, "might": 20, "move": 3, "range": 1, "x": 3, "y": 3, "commander": false},
+    {"id": "zhoucang", "name": "周仓", "troop": "infantry", "troops": 112, "might": 20, "move": 3, "range": 1, "x": 6, "y": 3, "commander": false},
+    {"id": "liaohua", "name": "廖化", "troop": "archer", "troops": 88, "might": 16, "move": 3, "range": 2, "x": 4, "y": 1, "commander": false}
+  ],
+  "enemy": [
+    {"id": "lumeng", "name": "吕蒙", "troop": "infantry", "troops": 104, "might": 18, "move": 3, "range": 1, "x": 4, "y": 7, "commander": true},
+    {"id": "luxun", "name": "陆逊", "troop": "archer", "troops": 74, "might": 15, "move": 3, "range": 2, "x": 4, "y": 6, "commander": false},
+    {"id": "panzhang", "name": "潘璋", "troop": "cavalry", "troops": 82, "might": 15, "move": 4, "range": 1, "x": 2, "y": 6, "commander": false},
+    {"id": "zhuran", "name": "朱然", "troop": "infantry", "troops": 84, "might": 15, "move": 3, "range": 1, "x": 5, "y": 7, "commander": false},
+    {"id": "handang", "name": "韩当", "troop": "cavalry", "troops": 82, "might": 15, "move": 4, "range": 1, "x": 7, "y": 6, "commander": false}
+  ]
+}
