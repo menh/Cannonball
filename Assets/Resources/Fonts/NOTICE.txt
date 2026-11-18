@@ -1,0 +1,12 @@
+JingzhouFont.ttf is a subset built for this battle.
+
+Chinese glyphs come from Droid Sans Fallback
+Copyright 2006 Google Corporation and Ascender Corporation (Steve Matteson).
+Licensed under the Apache License, Version 2.0.
+http://www.apache.org/licenses/LICENSE-2.0
+
+Latin letters, digits, and ASCII punctuation come from Liberation Sans
+Copyright 2010 Red Hat, Inc. Licensed under the SIL Open Font License 1.1.
+https://scripts.sil.org/OFL
+
+The two sets were combined and renamed Jingzhou Sans for the prototype.
